@@ -8,7 +8,7 @@ const {
 const { Connection, PublicKey, clusterApiUrl } = require("@solana/web3.js");
 
 //Domain name we want to look up
-const accountName = "nomey.sol";
+const accountName = "tosynthegeek.sol";
 
 //To check for the validity of the signature we would recieve for the server
 //Address of the SOL TLD
